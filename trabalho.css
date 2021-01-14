@@ -1,0 +1,28 @@
+body
+{
+	background: #f7ebc0;
+}
+.t {
+
+	font: arial; 
+	color: #ff0000;
+
+}
+
+.n {
+
+	border: 20px;
+	border color: black; 
+
+}
+
+.b{
+	background: red;
+}
+
+.l{
+
+	padding: 5px;
+	width: 3px;
+	
+}
